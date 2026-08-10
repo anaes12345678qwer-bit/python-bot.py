@@ -24,9 +24,9 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 MAIN_BOT_TOKEN = "8983173972:AAHDY9uF9bp0kuoPxdG0HeWkyeCCZLhUxB8"
 
 # القنوات الأساسية للاشتراك الإجباري في البوت الرئيسي
-MAIN_CHANNELS = ["", ""]
+MAIN_CHANNELS = ["",@BlackStarCity ""]
 # قناة المصنع الأساسية التي يمكن إزالتها/إضافتها كاشتراك إجباري
-FACTORY_MAIN_SUBSCRIPTION_CHANNEL = "
+FACTORY_MAIN_SUBSCRIPTION_CHANNEL = ""
 # حالة الاشتراك الإجباري لقناة المصنع الأساسية (True: مفعل، False: معطل)
 FACTORY_MAIN_SUBSCRIPTION_ENABLED = True # سيتم تحديثها ديناميكيًا
 
