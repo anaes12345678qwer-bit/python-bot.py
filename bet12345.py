@@ -4,7 +4,7 @@ import os
 import json
 from telegram import ParseMode
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
-from telegram.ext import CallbackContext, Updater
+from telegram.ext import CallbackContext, Updater, CommandHandler
 import requests
 import shutil
 import random
