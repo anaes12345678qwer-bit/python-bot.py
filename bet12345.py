@@ -3,8 +3,7 @@ import logging
 import os
 import json
 from telegram import ParseMode
-from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
-from telegram.constants import ParseMode
+from telegram import Update, InlineKeyboardButton, InlineKeyboardMarku
 import requests
 import shutil
 import random
